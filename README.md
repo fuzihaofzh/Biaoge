@@ -1,4 +1,4 @@
-# Biaoge: A python based tool to record your results
+# Biaoge: A python based tool to record your experiment results
 ```
   ____   _                            
  |  _ \ (_)                           
