@@ -1,6 +1,16 @@
-# Biaoge
+# Biaoge: A python based tool to record your results
+```
+  ____   _                            
+ |  _ \ (_)                           
+ | |_) | _   __ _   ___    __ _   ___ 
+ |  _ < | | / _` | / _ \  / _` | / _ \
+ | |_) || || (_| || (_) || (_| ||  __/
+ |____/ |_| \__,_| \___/  \__, | \___|
+                           __/ |      
+                          |___/       
+```
 ## Introduction
-Biaoge is a python tool to help researchers to record their data during their experiment. It is based on pandas but it's quite simplified. It can export data to markdown format which can be easily converted into other format.
+Biaoge(Table) is a python tool to help researchers to record their data during their experiment. It is based on pandas but it's quite simplified. It can export data to markdown format which can be easily converted into other format.
 
 ## Usage
 ``` python
